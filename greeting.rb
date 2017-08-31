@@ -1,3 +1,3 @@
 num_of_attendees = 547
 
-puts 'the number guests attending is #{num_of_attendees}'
+puts "There are #{num_of_attendees} people coming to Beyonce's birthday party."
