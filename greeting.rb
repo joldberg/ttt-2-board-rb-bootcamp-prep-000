@@ -2,4 +2,8 @@ def greeting
   puts "Hello World"
 end
 
-greeting * 3
+i = 0
+while i < 4
+  greeting
+  i+=1
+end
