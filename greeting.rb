@@ -1,9 +1,3 @@
-def greeting
-  puts "Hello World"
-end
+num_of_attendees = 547
 
-i = 0
-while i < 4
-  greeting
-  i+=1
-end
+puts 'the number guests attending is #{num_of_attendees}'
